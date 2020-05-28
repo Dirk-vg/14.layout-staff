@@ -1,0 +1,48 @@
+body {
+    box-sizing: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    align-items: ;
+}
+
+
+.header {
+    background-color: green;
+    height: 38vh;
+    width: 97vw;
+    margin-left: 12px;
+    
+    
+}
+
+
+
+
+
+.header, h1 {
+    text-align: center;
+    margin-top: 9rem;
+    font-size: 3rem;
+    
+}
+
+.header, p {
+    text-align: center;
+    font-size: 1rem;
+    
+}
+
+main {
+    
+}
+
+main h1 {
+
+}
+
+.team {
+    height: 30vh;
+}
